@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Sample Suite" duration-ms="4409" started-at="2018-02-05T05:51:39Z" finished-at="2018-02-05T05:51:43Z">
+    <groups>
+    </groups>
+    <test name="Sample Test" duration-ms="4409" started-at="2018-02-05T05:51:39Z" finished-at="2018-02-05T05:51:43Z">
+      <class name="testsuite.testcase">
+        <test-method status="PASS" signature="initiateDriver()[pri:0, instance:testsuite.testcase@5afa04c]" name="initiateDriver" is-config="true" duration-ms="5301" started-at="2018-02-05T11:21:33Z" finished-at="2018-02-05T11:21:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriver -->
+        <test-method status="PASS" signature="initiateApp()[pri:0, instance:testsuite.testcase@5afa04c]" name="initiateApp" is-config="true" duration-ms="125" started-at="2018-02-05T11:21:39Z" finished-at="2018-02-05T11:21:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateApp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:testsuite.testcase@5afa04c]" name="test" duration-ms="4268" started-at="2018-02-05T11:21:39Z" finished-at="2018-02-05T11:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- testsuite.testcase -->
+    </test> <!-- Sample Test -->
+  </suite> <!-- Sample Suite -->
+</testng-results>
